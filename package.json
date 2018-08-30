@@ -55,7 +55,7 @@
         "@babel/runtime": "^7.0.0",
         "prop-types": "^15.6.2",
         "react": "^16.4.2",
-        "signature_pad": "^2.3.2",
+        "signature_pad": "devotis/signature_pad#feature-multitouch-gestures",
         "throttle-debounce": "^2.0.1"
     },
     "jest": {
